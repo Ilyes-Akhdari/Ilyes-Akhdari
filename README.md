@@ -1,53 +1,24 @@
-🛡️ Ilyes Akhdari
+# 🛡️ Ilyes Akhdari | Futur Ingénieur Cybersécurité
 
-Futur Ingénieur Cybersécurité (AppSec / DevSecOps) | Développeur Full-Stack
+Bienvenue sur mon GitHub. Étudiant en 2ème année de **BUT Informatique**, gérant de l'agence web **DigitalSHB**, et futur étudiant en cycle **Ingénieur Cybersécurité (EFREI CTI / SecNumedu ANSSI)** à partir de septembre 2026. 
 
-👨‍💻 À propos de mon profil
+Mon profil est avant tout celui d'un développeur qui fait la transition vers la sécurité (AppSec / DevSecOps) : je suis convaincu qu'on ne peut protéger efficacement un système que si l'on sait précisément comment il est construit.
 
-"On ne protège efficacement un système d'information que si l'on sait précisément comment il est construit de A à Z."
+## 🎯 Mon ADN Technique (Actuel)
 
-Actuellement en 2ème année de BUT Informatique (Parcours Dev & Data) à l'IUT de Vélizy, je combine un solide bagage en conception logicielle avec une passion grandissante pour la sécurisation des infrastructures et des données.
+* **Dev :** PHP 8, Python 3, JavaScript, Java. (Sensibilisation aux pratiques "Security by Design").
+* **Ops :** Environnement Linux, Scripting Bash, notions de réseaux virtuels.
+* **Sec :** Cryptographie bas niveau (Implémentation stricte de RFC), fondamentaux des vulnérabilités web (OWASP Top 10).
 
-Mon objectif est clair : intégrer un cycle Ingénieur Cybersécurité en Alternance pour Septembre 2026 en Île-de-France. Je cible particulièrement les secteurs où la donnée est critique (MedTech, IoMT, Infrastructures d'Importance Vitale).
+## 🏆 Entraînement Continu
 
-🎓 Formation : BUT Informatique (Vélizy) -> Objectif : Cycle Ingénieur Cyber (ex: EFREI).
+* 🎯 **TryHackMe :** Classé dans le **Top 5% mondial** (Pratique active).
+* 📚 **Focus actuel :** Complétion du Learning Path *Web Fundamentals* pour consolider mes bases en sécurité applicative.
 
-🇬🇧 Langues : Anglais courant (Certification Cambridge B2).
+## 📌 Mes Projets Phares (Épinglés ci-dessous)
 
-💼 Actuellement : En stage de développement full-stack sécurisé & Gérant de mon agence web.
+1. **[ChaCha20-Python]** : Implémentation pure Python de l'algorithme de chiffrement par flot ChaCha20, codée "from scratch" en respectant strictement les vecteurs de tests de la norme IETF (RFC 8439). *(Cryptographie)*
+2. **[MondialPhone-SAV]** : Développement Back-end et Front-end d'un système d'information métier (Gestion SAV, suivi client). Intégration de protections contre les failles web courantes (requêtes SQL préparées, sanitization XSS). *(Dev / AppSec)*
 
-🚀 Expériences & Projets Phares
-
-1. 🔐 Cryptographie : Implémentation ChaCha20 (RFC 8439)
-
-Contexte : Projet d'étude personnel en cryptographie bas niveau.
-
-Réalisation : Développement "from scratch" en Python de l'algorithme de chiffrement par flot ChaCha20, en traduisant directement la documentation technique IETF (RFC 8439).
-
-Compétences : Opérations bit-à-bit (XOR, Rotations), Endianness, manipulation de matrices d'état, Python orienté sécurité.
-
-2. 💻 Ingénierie Logicielle : Portail SAV "Mondial Phone Plus"
-
-Contexte : Stage de développement de 8 semaines (Avril-Juin 2026).
-
-Réalisation : Création d'une application métier complète pour la digitalisation d'un centre de réparation (générateur de devis, tracker de réparation en temps réel, API SMS).
-
-Compétences : Modélisation de BDD, Back-end PHP, requêtes SQL sécurisées (prévention des injections), Front-end asynchrone (JS/AJAX), intégration WordPress.
-
-3. 🏢 Entrepreneuriat : Fondateur de DigitalSHB
-
-Contexte : Micro-entreprise de services numériques.
-
-Réalisation : Gestion de projets web de A à Z pour des clients réels. Déploiement d'architectures, sécurisation d'environnements d'hébergement, relation client (MOA).
-
-🛠️ Stack Technique & Outils
-
-⚙️ Développement & Scripting
-
-🗄️ Bases de Données & Architecture
-
-🛡️ Cybersécurité & Ops (Pratique & Apprentissage)
-
-📈 Statistiques GitHub
-
-“In theory, theory and practice are the same. In practice, they are not.”
+---
+📫 **Me contacter :** [Mon Profil LinkedIn](https://www.linkedin.com/in/ilyes-akhdari)
