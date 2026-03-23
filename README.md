@@ -6,9 +6,9 @@ Mon profil est avant tout celui d'un développeur qui fait la transition vers la
 
 ### 🎯 Mon ADN Technique (Actuel)
 
-* **Dev :** Python, PHP, Java, C, SQL/PLSQL. (Sensibilisation aux pratiques "Security by Design").
+* **Dev :** Python, PHP, Java, C, SQL/PLSQL, HTML/CSS,Javascript.
 * **Ops :** Environnement Linux (Debian, Raspberry Pi), Scripting Bash, Git, MariaDB/PostgreSQL.
-* **Sec :** Cryptographie bas niveau (Implémentation stricte de RFC), fondamentaux des vulnérabilités web.
+* **Sec :** Cryptographie bas niveau (Implémentation stricte de RFC).
 
 ### 🏆 Entraînement Continu
 
